@@ -41,6 +41,8 @@
     "rememberMeKey": "4f625ddd665170d74b607eb71b5d69a40263a913854eb5bac00a0df922ae8265d22b760bbd77eedfe0aed339006dd3486cf0",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1617487859000,
+    "entities": ["Employee"]
   }
 }
